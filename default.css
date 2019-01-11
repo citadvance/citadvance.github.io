@@ -149,7 +149,7 @@ h1,h2,h3 {padding-top: 6px;}
 }
 .sidenav li {border-bottom: 1px solid #EAEADA;}
 .sidenav li a {
-	font-size: 1.1em;
+/*	font-size: 1.1em; */
 	color: #554;
 	display: block;
 /*	padding: 0px 0 0px 5%; */
