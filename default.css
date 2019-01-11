@@ -178,6 +178,12 @@ h1,h2,h3 {padding-top: 6px;}
 .content ol li {list-style: decimal;}
 .content p {font-family: "Lucida Sans Unicode",sans-serif;}
 
+.table, th, td {
+
+th, td {
+  padding: 10px;
+}
+
 /* footer */
 .footer {
 	background: url(img/bgfooter.gif) repeat-x;
