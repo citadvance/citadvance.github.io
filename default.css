@@ -148,6 +148,8 @@ h1,h2,h3 {padding-top: 6px;}
 	border-top: 1px solid #EAEADA;
 }
 .sidenav li {border-bottom: 1px solid #EAEADA;}
+
+/*
 .sidenav li a {
 /*	font-size: 1.1em; */
 	color: #554;
@@ -155,7 +157,7 @@ h1,h2,h3 {padding-top: 6px;}
 /*	padding: 0px 0 0px 5%; */
 	text-decoration: none;
 	width: 95%;
-}
+} */
 .sidenav li a:hover {
 	background: #F0F0EB;
 	color: #654;
