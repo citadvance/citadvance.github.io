@@ -152,7 +152,7 @@ h1,h2,h3 {padding-top: 6px;}
 	font-size: 1.1em;
 	color: #554;
 	display: block;
-	padding: 0px 0 0px 5%;
+/*	padding: 0px 0 0px 5%; */
 	text-decoration: none;
 	width: 95%;
 }
