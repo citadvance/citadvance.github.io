@@ -201,3 +201,11 @@ padding: 6px 6px;
 .footer .right {color: #DEF;}
 .footer .right a {color: #DEF; text-decoration: none;}
 .footer a, .footer a:hover,.footer .right a:hover {color: #FFF;}
+
+.rotateimg180 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
