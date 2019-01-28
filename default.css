@@ -92,7 +92,7 @@ Read more: https://html.com/attributes/img-border/#ixzz5cnF7pSl7
 	width: 780px;
 }
 .header .left, .header .right {
-	background: #A4A4A0;
+	background: #A4A4A0; 
 	color: #FFF;
 	height: 150px;
 }
@@ -101,11 +101,12 @@ Read more: https://html.com/attributes/img-border/#ixzz5cnF7pSl7
 	font: normal 2.8em "Trebuchet MS",sans-serif;
 	line-height: 150px;
 	text-align: center;
-	width: 564px;
+	width: 542px;
 }
 .header .right {
-	overflow: auto;
-	width: 212px;
+background: #B3C2C7 url(img/logo5.jpeg) no-repeat;        
+overflow: auto;
+	width:234px;
 }
 .header .right p,.header .right h2 {padding: 0 16px;}
 .header .right h2 {padding-top: 16px; font: normal 1.6em "Trebuchet MS",sans-serif;}
