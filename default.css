@@ -86,7 +86,7 @@ Read more: https://html.com/attributes/img-border/#ixzz5cnF7pSl7
 .header {
 	background: #FFF;
 	font-size: 1.2em;
-	height: 150px;
+	height: 149px;
 	margin: 0 auto;
 	padding: 10px 10px 5px;
 	width: 780px;
@@ -94,14 +94,14 @@ Read more: https://html.com/attributes/img-border/#ixzz5cnF7pSl7
 .header .left, .header .right {
 	background: #A4A4A0; 
 	color: #FFF;
-	height: 150px;
+	height: 149px;
 }
 .header .left {
-	background: #B3C2C7 url(img/header.jpg) no-repeat;
+	background: #B3C2C7 url(banner1.jpeg) no-repeat;
 	font: normal 2.8em "Trebuchet MS",sans-serif;
-	line-height: 150px;
+	line-height: 149px;
 	text-align: center;
-	width: 542px;
+	width: 780px;
 }
 .header .right {
 background: #B3C2C7 url(logo5.jpeg) no-repeat;        
